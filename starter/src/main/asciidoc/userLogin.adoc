@@ -1,0 +1,8 @@
+= User Login REST Operation Docs
+:toc: left
+
+Learn how to process user login operation in API.
+
+== /userLogin: user login
+
+operation::userLogin[]

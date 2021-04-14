@@ -1,0 +1,8 @@
+= Get User Detail REST Operation Docs
+:toc: left
+
+Learn how to process get user detail operation in API.
+
+== /user: Get user detail
+
+operation::userGet[]

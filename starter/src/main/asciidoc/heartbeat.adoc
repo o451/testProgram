@@ -1,0 +1,8 @@
+= Heartbeat REST Operation Docs
+:toc: left
+
+Learn how to process heartbeat operation in API.
+
+== /heartbeat: Get heartbeat info
+
+operation::heartbeat[]

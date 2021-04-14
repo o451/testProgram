@@ -1,0 +1,8 @@
+= User Logout REST Operation Docs
+:toc: left
+
+Learn how to process user logout operation in API.
+
+== /userLogout: user logout
+
+operation::userLogout[]

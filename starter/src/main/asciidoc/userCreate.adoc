@@ -1,0 +1,8 @@
+= Create User REST Operation Docs
+:toc: left
+
+Learn how to process create user operation in API.
+
+== /user: create user
+
+operation::userCreate[]

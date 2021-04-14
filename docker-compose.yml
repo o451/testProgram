@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  test-program:
+    image: 'daiming/testprogram'
+    volumes:
+      - .:/root
+    ports:
+      - '9494:9494'
