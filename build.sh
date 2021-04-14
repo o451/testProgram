@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 mvn clean package
-docker build -t daiming/testprogram .
+sudo docker build -t daiming/testprogram .
