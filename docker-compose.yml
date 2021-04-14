@@ -5,4 +5,4 @@ services:
     volumes:
       - .:/root
     ports:
-      - '9494:9494'
+      - '8080:9494'
